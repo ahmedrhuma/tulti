@@ -1,0 +1,38 @@
+{
+  "id": "albaitstore",
+  "name": "متجر البيت",
+  "description": "تطبيق متجر البيت",
+  "categories": ["financial", "shopping", "business"],
+  "short_name": "البيت",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "./?utm_source=homescreen",
+  "theme_color": "#002140",
+  "background_color": "#001529",
+  "shortcuts": [
+    {
+      "name": "المبيعات",
+      "url": "/sales"
+    },
+    {
+      "name": "الباتشات",
+      "url": "/patches"
+    }
+  ],
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-128x128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

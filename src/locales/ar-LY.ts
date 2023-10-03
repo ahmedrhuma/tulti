@@ -1,0 +1,17 @@
+export default {
+    'menu.dashboard': 'لوحة التحكم',
+    'menu.items': 'الأصناف',
+    'menu.settings': 'إعدادات',
+    'menu.settings.users': 'المُـستخدمين',
+    'menu.settings.groups': 'المجموعات',
+    'menu.patches': 'الشحنات',
+    'menu.singlepatch': 'تفاصيل الشحنة',
+    'menu.customers': 'العُـملاء',
+    'menu.storage': 'المخزن',
+    'menu.sales': 'المبيعات',
+    'menu.readStorages': 'معلومات المنتج',
+    'menu.settings.general': 'إعدادات عامة',
+    'menu.product': 'صفحة المنتج',
+    'menu.reservations': 'الحجوزات',
+    'menu.financial': 'المالية',
+};

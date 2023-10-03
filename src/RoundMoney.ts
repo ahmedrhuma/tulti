@@ -1,0 +1,1 @@
+export default (number: number) => Number((Math.round(number * 4) / 4).toFixed(2));
